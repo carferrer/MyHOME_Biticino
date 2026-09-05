@@ -8,7 +8,7 @@ from OWNd.message import OWNCommand, OWNGatewayCommand
 from homeassistant.config_entries import SOURCE_REAUTH, ConfigEntry
 from homeassistant.core import HomeAssistant
 from homeassistant.exceptions import ConfigEntryNotReady
-from homeassistant.helpers import device_registry as dr, entity_registry as er
+from homeassistant.helpers import device_registry as dr, entity_registry as er, config_validation as cv
 from homeassistant.const import CONF_MAC
 
 from .const import (
