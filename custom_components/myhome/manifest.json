@@ -2,7 +2,7 @@
   "domain": "myhome",
   "integration_type": "hub",
   "name": "MyHOME",
-  "version": "2024.03.15",
+  "version": "2026.09.02",
   "config_flow": true,
   "documentation": "https://github.com/carferrer/MyHOME",
   "issue_tracker": "https://github.com/anotherjulien/carferrer/issues",
