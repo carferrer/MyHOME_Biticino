@@ -4,8 +4,8 @@
   "name": "MyHOME",
   "version": "2024.03.15",
   "config_flow": true,
-  "documentation": "https://github.com/anotherjulien/MyHOME",
-  "issue_tracker": "https://github.com/anotherjulien/MyHOME/issues",
+  "documentation": "https://github.com/carferrer/MyHOME",
+  "issue_tracker": "https://github.com/anotherjulien/carferrer/issues",
   "requirements": ["git+https://github.com/carferrer/myhome-OWNd.git#OWNd==0.7.50"],
   "ssdp": [
     {
